@@ -15,6 +15,7 @@ def printen():
 	alle_getallen=list(range(0, int(input("tot welk getal? \n"))))
   #alle_getallen = int(alle_getallen)
   #alle_getallen = alle_getallen + 1
+	#WAIT I KNOW HOW THIS WORKS
 	print("printingg")
 	for i in alle_getallen:
 		print(str(i))
