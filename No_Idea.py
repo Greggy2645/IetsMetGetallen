@@ -19,9 +19,9 @@ def printen():
 		print(str(i))
 		time.sleep(0.1)
 	printen()
-startding()
-
+	
 def testscriptje():
 	getal = int(input("kies getal"))
 	range_ding = list(range(0, getal))
 	print(range_ding)
+startding()
